@@ -1,0 +1,12 @@
+D:\oopWorks\Work10\LibInterface\bin\Debug\net6.0\LibInit.deps.json
+D:\oopWorks\Work10\LibInterface\bin\Debug\net6.0\LibInit.dll
+D:\oopWorks\Work10\LibInterface\bin\Debug\net6.0\LibInit.pdb
+D:\oopWorks\Work10\LibInterface\obj\Debug\net6.0\LibInit.csproj.AssemblyReference.cache
+D:\oopWorks\Work10\LibInterface\obj\Debug\net6.0\LibInit.GeneratedMSBuildEditorConfig.editorconfig
+D:\oopWorks\Work10\LibInterface\obj\Debug\net6.0\LibInit.AssemblyInfoInputs.cache
+D:\oopWorks\Work10\LibInterface\obj\Debug\net6.0\LibInit.AssemblyInfo.cs
+D:\oopWorks\Work10\LibInterface\obj\Debug\net6.0\LibInit.csproj.CoreCompileInputs.cache
+D:\oopWorks\Work10\LibInterface\obj\Debug\net6.0\LibInit.dll
+D:\oopWorks\Work10\LibInterface\obj\Debug\net6.0\refint\LibInit.dll
+D:\oopWorks\Work10\LibInterface\obj\Debug\net6.0\LibInit.pdb
+D:\oopWorks\Work10\LibInterface\obj\Debug\net6.0\ref\LibInit.dll

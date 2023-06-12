@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LibVirtual/1.0.0": {
+        "dependencies": {
+          "LibInit": "1.0.0"
+        },
+        "runtime": {
+          "LibVirtual.dll": {}
+        }
+      },
+      "LibInit/1.0.0": {
+        "runtime": {
+          "LibInit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibVirtual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibInit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

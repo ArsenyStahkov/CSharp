@@ -1,0 +1,15 @@
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\Work12_Task4.csproj.AssemblyReference.cache
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\Work12_Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\Work12_Task4.AssemblyInfoInputs.cache
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\Work12_Task4.AssemblyInfo.cs
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\Work12_Task4.csproj.CoreCompileInputs.cache
+D:\oopWorks\Work12\Work12_Task4\bin\Debug\net6.0\Work12_Task4.exe
+D:\oopWorks\Work12\Work12_Task4\bin\Debug\net6.0\Work12_Task4.deps.json
+D:\oopWorks\Work12\Work12_Task4\bin\Debug\net6.0\Work12_Task4.runtimeconfig.json
+D:\oopWorks\Work12\Work12_Task4\bin\Debug\net6.0\Work12_Task4.dll
+D:\oopWorks\Work12\Work12_Task4\bin\Debug\net6.0\Work12_Task4.pdb
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\Work12_Task4.dll
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\refint\Work12_Task4.dll
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\Work12_Task4.pdb
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\Work12_Task4.genruntimeconfig.cache
+D:\oopWorks\Work12\Work12_Task4\obj\Debug\net6.0\ref\Work12_Task4.dll

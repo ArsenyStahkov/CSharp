@@ -1,0 +1,15 @@
+D:\oopWorks\Work10\LibVirtual\bin\Debug\net6.0\LibVirtual.deps.json
+D:\oopWorks\Work10\LibVirtual\bin\Debug\net6.0\LibVirtual.dll
+D:\oopWorks\Work10\LibVirtual\bin\Debug\net6.0\LibVirtual.pdb
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\LibVirtual.csproj.AssemblyReference.cache
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\LibVirtual.GeneratedMSBuildEditorConfig.editorconfig
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\LibVirtual.AssemblyInfoInputs.cache
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\LibVirtual.AssemblyInfo.cs
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\LibVirtual.csproj.CoreCompileInputs.cache
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\LibVirtual.dll
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\refint\LibVirtual.dll
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\LibVirtual.pdb
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\ref\LibVirtual.dll
+D:\oopWorks\Work10\LibVirtual\bin\Debug\net6.0\LibInit.dll
+D:\oopWorks\Work10\LibVirtual\bin\Debug\net6.0\LibInit.pdb
+D:\oopWorks\Work10\LibVirtual\obj\Debug\net6.0\LibVirtual.csproj.CopyComplete

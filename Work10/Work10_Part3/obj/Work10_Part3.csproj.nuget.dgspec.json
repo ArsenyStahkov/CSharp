@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\oopWorks\\Work10\\Work10_Part3\\Work10_Part3.csproj": {}
+  },
+  "projects": {
+    "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj",
+        "projectName": "LibInit",
+        "projectPath": "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj",
+        "packagesPath": "C:\\Users\\tride\\.nuget\\packages\\",
+        "outputPath": "D:\\oopWorks\\Work10\\LibInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tride\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\oopWorks\\Work10\\LibVirtual\\LibVirtual.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\oopWorks\\Work10\\LibVirtual\\LibVirtual.csproj",
+        "projectName": "LibVirtual",
+        "projectPath": "D:\\oopWorks\\Work10\\LibVirtual\\LibVirtual.csproj",
+        "packagesPath": "C:\\Users\\tride\\.nuget\\packages\\",
+        "outputPath": "D:\\oopWorks\\Work10\\LibVirtual\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tride\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj": {
+                "projectPath": "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\oopWorks\\Work10\\Work10_Part3\\Work10_Part3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\oopWorks\\Work10\\Work10_Part3\\Work10_Part3.csproj",
+        "projectName": "Work10_Part3",
+        "projectPath": "D:\\oopWorks\\Work10\\Work10_Part3\\Work10_Part3.csproj",
+        "packagesPath": "C:\\Users\\tride\\.nuget\\packages\\",
+        "outputPath": "D:\\oopWorks\\Work10\\Work10_Part3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tride\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj": {
+                "projectPath": "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj"
+              },
+              "D:\\oopWorks\\Work10\\LibVirtual\\LibVirtual.csproj": {
+                "projectPath": "D:\\oopWorks\\Work10\\LibVirtual\\LibVirtual.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

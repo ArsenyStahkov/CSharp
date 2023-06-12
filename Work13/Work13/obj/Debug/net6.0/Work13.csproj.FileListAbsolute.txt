@@ -1,0 +1,15 @@
+D:\oopWorks\Work13\Work13\bin\Debug\net6.0\Work13.exe
+D:\oopWorks\Work13\Work13\bin\Debug\net6.0\Work13.deps.json
+D:\oopWorks\Work13\Work13\bin\Debug\net6.0\Work13.runtimeconfig.json
+D:\oopWorks\Work13\Work13\bin\Debug\net6.0\Work13.dll
+D:\oopWorks\Work13\Work13\bin\Debug\net6.0\Work13.pdb
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\Work13.csproj.AssemblyReference.cache
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\Work13.GeneratedMSBuildEditorConfig.editorconfig
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\Work13.AssemblyInfoInputs.cache
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\Work13.AssemblyInfo.cs
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\Work13.csproj.CoreCompileInputs.cache
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\Work13.dll
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\refint\Work13.dll
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\Work13.pdb
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\Work13.genruntimeconfig.cache
+D:\oopWorks\Work13\Work13\obj\Debug\net6.0\ref\Work13.dll

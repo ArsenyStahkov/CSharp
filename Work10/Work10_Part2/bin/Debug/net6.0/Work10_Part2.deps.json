@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Work10_Part2/1.0.0": {
+        "dependencies": {
+          "LibNoVirtual": "1.0.0",
+          "LibVirtual": "1.0.0"
+        },
+        "runtime": {
+          "Work10_Part2.dll": {}
+        }
+      },
+      "LibInit/1.0.0": {
+        "runtime": {
+          "LibInit.dll": {}
+        }
+      },
+      "LibNoVirtual/1.0.0": {
+        "runtime": {
+          "LibNoVirtual.dll": {}
+        }
+      },
+      "LibVirtual/1.0.0": {
+        "dependencies": {
+          "LibInit": "1.0.0"
+        },
+        "runtime": {
+          "LibVirtual.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Work10_Part2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibInit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibNoVirtual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibVirtual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

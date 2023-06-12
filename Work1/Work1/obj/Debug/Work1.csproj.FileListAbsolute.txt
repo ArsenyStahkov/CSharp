@@ -1,0 +1,8 @@
+C:\Users\tride\OneDrive\Documents\oopWorks\Work1\Work1\bin\Debug\Work1.exe.config
+C:\Users\tride\OneDrive\Documents\oopWorks\Work1\Work1\bin\Debug\Work1.exe
+C:\Users\tride\OneDrive\Documents\oopWorks\Work1\Work1\bin\Debug\Work1.pdb
+C:\Users\tride\OneDrive\Documents\oopWorks\Work1\Work1\obj\Debug\Work1.csproj.AssemblyReference.cache
+C:\Users\tride\OneDrive\Documents\oopWorks\Work1\Work1\obj\Debug\Work1.csproj.SuggestedBindingRedirects.cache
+C:\Users\tride\OneDrive\Documents\oopWorks\Work1\Work1\obj\Debug\Work1.csproj.CoreCompileInputs.cache
+C:\Users\tride\OneDrive\Documents\oopWorks\Work1\Work1\obj\Debug\Work1.exe
+C:\Users\tride\OneDrive\Documents\oopWorks\Work1\Work1\obj\Debug\Work1.pdb

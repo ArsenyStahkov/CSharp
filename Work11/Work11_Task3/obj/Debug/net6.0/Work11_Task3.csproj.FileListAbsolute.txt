@@ -1,0 +1,15 @@
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\Work11_Task3.csproj.AssemblyReference.cache
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\Work11_Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\Work11_Task3.AssemblyInfoInputs.cache
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\Work11_Task3.AssemblyInfo.cs
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\Work11_Task3.csproj.CoreCompileInputs.cache
+D:\oopWorks\Work11\Work11_Task3\bin\Debug\net6.0\Work11_Task3.exe
+D:\oopWorks\Work11\Work11_Task3\bin\Debug\net6.0\Work11_Task3.deps.json
+D:\oopWorks\Work11\Work11_Task3\bin\Debug\net6.0\Work11_Task3.runtimeconfig.json
+D:\oopWorks\Work11\Work11_Task3\bin\Debug\net6.0\Work11_Task3.dll
+D:\oopWorks\Work11\Work11_Task3\bin\Debug\net6.0\Work11_Task3.pdb
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\Work11_Task3.dll
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\refint\Work11_Task3.dll
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\Work11_Task3.pdb
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\Work11_Task3.genruntimeconfig.cache
+D:\oopWorks\Work11\Work11_Task3\obj\Debug\net6.0\ref\Work11_Task3.dll
