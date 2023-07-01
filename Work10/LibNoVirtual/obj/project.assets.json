@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\oopWorks\\Work10\\LibNoVirtual\\LibNoVirtual.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp\\Work10\\LibNoVirtual\\LibNoVirtual.csproj",
       "projectName": "LibNoVirtual",
-      "projectPath": "D:\\oopWorks\\Work10\\LibNoVirtual\\LibNoVirtual.csproj",
+      "projectPath": "D:\\GitHub\\CSharp\\Work10\\LibNoVirtual\\LibNoVirtual.csproj",
       "packagesPath": "C:\\Users\\tride\\.nuget\\packages\\",
-      "outputPath": "D:\\oopWorks\\Work10\\LibNoVirtual\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp\\Work10\\LibNoVirtual\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tride\\AppData\\Roaming\\NuGet\\NuGet.Config",

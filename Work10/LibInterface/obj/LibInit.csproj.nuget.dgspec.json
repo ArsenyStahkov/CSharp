@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj": {}
+    "D:\\GitHub\\CSharp\\Work10\\LibInterface\\LibInit.csproj": {}
   },
   "projects": {
-    "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj": {
+    "D:\\GitHub\\CSharp\\Work10\\LibInterface\\LibInit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj",
+        "projectUniqueName": "D:\\GitHub\\CSharp\\Work10\\LibInterface\\LibInit.csproj",
         "projectName": "LibInit",
-        "projectPath": "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj",
+        "projectPath": "D:\\GitHub\\CSharp\\Work10\\LibInterface\\LibInit.csproj",
         "packagesPath": "C:\\Users\\tride\\.nuget\\packages\\",
-        "outputPath": "D:\\oopWorks\\Work10\\LibInterface\\obj\\",
+        "outputPath": "D:\\GitHub\\CSharp\\Work10\\LibInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tride\\AppData\\Roaming\\NuGet\\NuGet.Config",

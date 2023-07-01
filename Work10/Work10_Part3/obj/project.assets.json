@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\oopWorks\\Work10\\Work10_Part3\\Work10_Part3.csproj",
+      "projectUniqueName": "D:\\GitHub\\CSharp\\Work10\\Work10_Part3\\Work10_Part3.csproj",
       "projectName": "Work10_Part3",
-      "projectPath": "D:\\oopWorks\\Work10\\Work10_Part3\\Work10_Part3.csproj",
+      "projectPath": "D:\\GitHub\\CSharp\\Work10\\Work10_Part3\\Work10_Part3.csproj",
       "packagesPath": "C:\\Users\\tride\\.nuget\\packages\\",
-      "outputPath": "D:\\oopWorks\\Work10\\Work10_Part3\\obj\\",
+      "outputPath": "D:\\GitHub\\CSharp\\Work10\\Work10_Part3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tride\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj": {
-              "projectPath": "D:\\oopWorks\\Work10\\LibInterface\\LibInit.csproj"
+            "D:\\GitHub\\CSharp\\Work10\\LibInterface\\LibInit.csproj": {
+              "projectPath": "D:\\GitHub\\CSharp\\Work10\\LibInterface\\LibInit.csproj"
             },
-            "D:\\oopWorks\\Work10\\LibVirtual\\LibVirtual.csproj": {
-              "projectPath": "D:\\oopWorks\\Work10\\LibVirtual\\LibVirtual.csproj"
+            "D:\\GitHub\\CSharp\\Work10\\LibVirtual\\LibVirtual.csproj": {
+              "projectPath": "D:\\GitHub\\CSharp\\Work10\\LibVirtual\\LibVirtual.csproj"
             }
           }
         }
